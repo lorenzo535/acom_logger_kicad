@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name acomm_logger-rescue)(type Legacy)(uri ${KIPRJMOD}/acomm_logger-rescue.lib)(options "")(descr ""))
+  (lib (name lorenzo2018)(type Legacy)(uri /home/lbrignon/kicad/lorenzo2018.lib)(options "")(descr ""))
+)
